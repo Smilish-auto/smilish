@@ -4,7 +4,7 @@ const projects = [
 
 title:"AI Real Estate Assistant",
 
-image:"image/Screenshot(1).png",
+image:"portfolio/image/Screenshot(1).png",
 
 description:"An AI assistant that answers customer questions, recommends properties, books inspections and captures leads automatically.",
 
@@ -25,7 +25,7 @@ github:"#"
 
 title:"AI Voice Sales Agent",
 
-image:"image/Screenshot(2).png",
+image:"portfolio/image/Screenshot(2).png",
 
 description:"Voice AI that qualifies leads, follows up automatically and schedules appointments.",
 
